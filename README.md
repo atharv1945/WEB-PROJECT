@@ -14,7 +14,7 @@ An engaging and interactive React web application showcasing the Muffled 860-ANC
 - **Modern Aesthetics**: Clean, professional design with Tailwind CSS
 - **Customer Testimonials**: Displays user reviews and ratings
 - **Contact Form**: Easy communication with the sales team
-- **Checkout System**: Simple and intuitive purchasing process
+- **Checkout System**: Simple and intuitive purchasing proces
 
 ## 🛠️ Technologies Used
 
